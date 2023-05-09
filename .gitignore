@@ -160,3 +160,7 @@ cython_debug/
 #.idea/
 # Pycharm files
 .idea/
+
+#DB migrations
+
+migrations/
